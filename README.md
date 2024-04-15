@@ -26,8 +26,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [FEM Solution - Social Links Profile](https://your-solution-url.com)
-- Live Site URL: [FEM - Social Links Profile](https://your-live-site-url.com)
+- Solution URL: [FEM Solution - Social Links Profile](https://www.frontendmentor.io/solutions/social-links-profile-solution--xfE81UfkQ)
+- Live Site URL: [FEM - Social Links Profile](https://social-links-profile-main-eosin.vercel.app/)
 
 ## My process
 
